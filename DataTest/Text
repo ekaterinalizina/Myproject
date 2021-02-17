@@ -1,0 +1,5 @@
+Write a literal representing the largest character value.
+2.7: The char Data Type Flashcards, Write a literal representing the largest character value .
+Suppose we are using unsigned one-byte characters . 255. Declare a character variable named c. char c;.
+They aren't really looking for the actual "Maximum Value" of the char type
+(which is FFFF or 1 16 times as you have written), but the LITERAL that is the max VALUE.
